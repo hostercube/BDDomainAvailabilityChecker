@@ -18,7 +18,7 @@ The (DOT).BD Domain Availability Checker is a simple tool for WHMCS that allows 
 
 2. Open the `dist.whois.json` file for editing.
 
-3. Add the following code at the beginning of the JSON array, replacing `https://example.com/your_script.php` with the actual valid HTTPS URL where your domain availability checking script is hosted:
+3. Add the following code at the beginning of the JSON array, replacing `https://your-domain.com/domainchecker.php` with the actual valid HTTPS URL where your domain availability checking script is hosted:
 
    ```json
    {
@@ -44,4 +44,4 @@ We welcome contributions from the community. If you find any issues or have sugg
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]().
