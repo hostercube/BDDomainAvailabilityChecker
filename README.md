@@ -23,7 +23,7 @@ The (DOT).BD Domain Availability Checker is a simple tool for WHMCS that allows 
    ```json
    {
        "extensions": ".com.bd,.net.bd,.org.bd,.edu.bd,.co.bd,.mil.bd,.gov.bd,.ac.bd,.info.bd,.tv.bd,.sw.bd",
-       "uri": "https://example.com/your_script.php?search=",
+       "uri": "https://your-domain.com/domainchecker.php?search=",
        "available": "Domain is available"
    }
    ```
